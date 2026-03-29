@@ -1,22 +1,40 @@
-Hi there, I'm Akshat Singh
+## Hi there, I'm Akshat Singh
 
-Second Semester | B.Tech CSE (AI & ML)
+Second Semester | B.Tech CSE core
 Vellore Institute of Technology (VIT), Bhopal
 
-About Me
 
-I am a passionate second-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at VIT Bhopal.
+# About Me
 
-My core interest lies in building intelligent systems and understanding the complete lifecycle of Large Language Models (LLMs). I am particularly excited about:
+I am a passionate Computer Science Engineering at VIT Bhopal.
 
-Training and fine-tuning AI models from scratch
-Creating robust AI model environments and inference pipelines
-Building multi-LLM orchestration systems — where models like Grok, Claude, GPT, and others work together to deliver better, more reliable answers to users
-Exploring advanced techniques in prompt engineering, RAG, agents, and LLM deployment
-My Learning Goals
-Deeply understand how Large Language Models work under the hood
-Learn to train, optimize, and deploy custom AI models
-Build production-grade AI systems that integrate multiple powerful LLMs intelligently
-Gain hands-on experience with the full stack of modern AI development
+I’m deeply interested in building intelligent systems and understanding how modern AI models work at scale. My focus is on learning both the **theoretical foundations** and **practical implementation** of AI technologies.
 
-Currently in my 2nd semester, I am actively learning and experimenting with LLMs, machine learning frameworks, and AI system design.
+# Interests
+
+* Training and fine-tuning AI/ML models
+* Understanding Large Language Models (LLMs)
+* Building AI-based applications and systems
+* Exploring multi-model AI systems (GPT, Claude, etc.)
+* Problem solving using Data Structures & Algorithms
+
+# My Learning Goals
+
+* Master core concepts of AI & Machine Learning
+* Understand how LLMs work internally
+* Build real-world AI projects
+* Learn model deployment and optimization
+* Become proficient in DSA and competitive coding
+
+# Tech Stack (Learning & Using)
+
+*  Languages: Java, Python
+*  Concepts: Data Structures, Algorithms, OOP
+*  Domains: Machine Learning, AI Basics
+* Tools: VS Code, IntelliJ IDEA, Git, GitHub
+
+# Current Focus
+
+* Practicing DSA (LeetCode)
+* Strengthening Java fundamentals
+* Exploring AI/ML concepts step-by-step
